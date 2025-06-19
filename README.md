@@ -1,10 +1,10 @@
 # Sales-DashBoard-with-Report
 
-#Vrinda Store Sales Dashboard Report - 2022
-#Project Overview
+Vrinda Store Sales Dashboard Report - 2022
+# Project Overview
 This Excel Dashboard analyzes the annual sales and order data for Vrinda Store in 2022. It visualizes critical business metrics to derive insights that aid decision-making. The dashboard answers key business questions related to sales performance, customer demographics, top-performing regions, order channels, and more.
 
-#Objectives
+# Objectives
 The project aims to:
 
 Compare total sales and orders month-wise.

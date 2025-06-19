@@ -1,10 +1,10 @@
 # Sales-DashBoard-with-Report
 
-Vrinda Store Sales Dashboard Report - 2022
-Project Overview
+#Vrinda Store Sales Dashboard Report - 2022
+#Project Overview
 This Excel Dashboard analyzes the annual sales and order data for Vrinda Store in 2022. It visualizes critical business metrics to derive insights that aid decision-making. The dashboard answers key business questions related to sales performance, customer demographics, top-performing regions, order channels, and more.
 
-Objectives
+#Objectives
 The project aims to:
 
 Compare total sales and orders month-wise.
@@ -17,7 +17,7 @@ Analyze purchase behavior based on gender and age.
 
 Derive actionable insights for future sales growth.
 
-Key Questions Answered
+# Key Questions Answered
 Compare the sales and orders using a single chart
 A dual-axis chart shows monthly trends. March has the highest sales and order volume.
 
@@ -56,7 +56,7 @@ Amazon (35%), followed by Myntra (23%) and Flipkart (22%).
 Highest selling category?
 (Not shown in current dashboard – can be added later.)
 
-Insights
+# Insights
 Women (64%) dominate shopping behavior compared to men.
 
 Adults (30-49 yrs) form the highest contributing age group.
@@ -65,7 +65,7 @@ Top 3 states by sales: Maharashtra, Karnataka, Uttar Pradesh.
 
 Amazon, Flipkart, and Myntra are the most impactful channels.
 
-Final Conclusion
+# Final Conclusion
 To improve Vrinda Store sales:
 
 Target women aged 30–49 in Maharashtra, Karnataka, and Uttar Pradesh
@@ -83,7 +83,7 @@ Dashboard Elements
 
 Data Visualization
 
-Future Recommendations
+# Future Recommendations
 Add product-level insights.
 
 Track conversion rates by channel.
